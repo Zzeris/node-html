@@ -6,6 +6,8 @@
   "author": "zzeris <zzeris@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
   }
 }
